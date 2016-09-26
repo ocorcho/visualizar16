@@ -6,6 +6,8 @@
 
 El Centro de Recursos de Madrid podría ser un prototipo para que el Ayuntamiento piense en una **mejor forma de disponer de los recursos**: Unos se verán de forma más clara y otros no tanto, por lo que se pretende la optimización. Es un proyecto que ya se enfocó y materializó en Visualizar 15'.
 
+**Integrantes:**
+
 ##*Fab City Dashboard*##
 
 > "*Fab City* es un proyecto global para el desarrollo de ciudades que sean autosuficientes y productivas a nivel local y conectadas globalmente hacia un nuevo modelo urbano donde las ciudades encuentran y utilizan recursos localmente, junto con el reciclaje de materiales y al enfrentarse a las necesidades locales a través de la inventiva y participación local. la importación y exportación de una ciudad serían entonces en su mayoría en forma de datos (información, conocimiento, diseño, código). De esta manera, los ciudadanos y las ciudades aumentan su resiliencia con un sistema más ecológico debido a la reducción de los flujos de materiales, el consumo de energía asociado y las emisiones de carbono típicos de la economía actual."
@@ -19,6 +21,7 @@ datasets* como de *MIT Atlas*, *Rup*, el propio *Fab Labs*, entre otros, más lo
 
 LiQen quiere construir una red de colaboración y aplicación móvil que represente los **conflictos móviles de la ciudad** y busca añadir **la participación ciudadana a las bases ya existentes** de cara a empoderar a todas las personas. Se añadirían conjuntos de datos híbridos entre los existentes a escala local junto a datos generados por usuarios. Es decir, añadir datos exitentes, deduplicar los datos generados y compartir los datos. Se necesita también un modelo conjunto uniforme para denunciar conflictos de carácter medioambiental, cuando la contaminación puede ser sobre todo de un tipo en un país y de una forma totalmente distinta en otro.
 
+**Integrantes:**
 
 ##Comportamiento de Visitantes en instituciones culturales##
 
@@ -26,11 +29,15 @@ LiQen quiere construir una red de colaboración y aplicación móvil que represe
 
 Este proyecto plantea cuáles son los alcances nunca tenidos en cuenta en la **recolección de datos necesarios en espacios públicos como museos**. Se trata de reflejar los cambios que existen en los museos para situarse en la oferta cultural y ello implica conocer al visitante: cómo se mueve, por dónde se mueve, cuándo se para y por cuánto tiempo, entre otros. De esta forma, se genera una nueva cuestión en torno al concepto de **cómo entender los espacios culturales públicos desde una perspectiva actual**.
 
+**Integrantes:**
+
 ##*Urban art side B*. ARRE (Arte, Arquitectura y Reutilización)##
 
 > "Buscamos intervenir el espacio a través de la mínima transformación (intentando que nuestra huella pase desapercibida), utilizando siempre materiales que ya se encuentran en el lugar y tratando de respetar el entorno, resaltando su valor medio medioambiental y estético. Los espacios en desuso de la arquitectura y la necesidad de ser observados y reutilizados,se convierten en nuestro principal generador de actividad."
 
 ARRE busca subir fotografías que generen un **arte no catalogado como tal desde sus propios espacios urbanos**: qué le sugiere un espacio urbano concreto de cara a lo que se ha hecho o para mejorarlo. Arte, Arquitectura y Reutilización necesitará ahora de la parte informática para convertir de esta cuestion anónima de crear las tres acciones de las que compone su nombre un site para compartirlo todo.
+
+**Integrantes:**
 
 ##*Stadatus*##
 
@@ -38,15 +45,21 @@ ARRE busca subir fotografías que generen un **arte no catalogado como tal desde
 
 Tras trabajos previos de transparencia y la dificultad de acceso a cierta información, que hace que incluso proyectos de gran envergadura como "Tu derecho a saber", de Civio, tengan fecha de caducidad. Se buscaría crear **una plataforma que desgranase las leyes y su cumplimiento y la apertura de datos** ya que en verdad a nivel institucional ya la información viene cerrada.
 
+**Integrantes:**
+
 ##*Apps 4 citizens*##
 
 > "Esta plataforma nos ha aportado dos aprendizajes: por un lado, más allá de las apps, hay otras herramientas con usabilidad vía web, muy relevantes para el activismo social y político que, con un marco de difusión más amplio, podrían tener mayor impacto en la ciudadanía; por otro lado, las herramientas destacables son aquellas que promueven el código reutilizable, datos abiertos, licencias de contenido libres, etc. En resumen, la tecnopolítica debe favorecer estructuras de creación más justas e igualitarias socialmente."
 
 En su meta del cambio social y el empoderamiento ciudadano, *Apps 4 citizens* busca **soluciones tecnológicas** que puedan servir a las personas. Se articula en cuatro áreas: para visualizar interesa la llamada ***Appteca***: plataforma en la que 33 expertos valoran las apps a rastrear. Estas aplicaciones se clasifican por: sistema operativo, temática y el ámbito geográfico. El objetivo es trascender de la cuestión de app, es decir, pasar a cómo se puede visualizar mejor la información."
 
+**Integrantes:**
+
 ##Gala##
 
 > "La propuesta nace al entender los conciertos como un indicador de la actividad musical de una ciudad. A partir un archivo de conciertos podríamos identificar que ciudades tienen más o menos actividad musical incluso identificar que tipo de música es mas frecuente en cada lugar."
 
 La actividad cultural se puede entender a modo de constelación. Ante la problemática que genera el hecho de que pueda a ver menos ofertas, por ejemplo, musicales, en un sitio como Madrid, **los datos de eventos culturales pueden confluir de tal forma que se genere una visualización estelar**, de tal forma que cada concierto sea un **astro con un color** dependiendo de su género y que **la coincidencia de géneros produzca la constelación** de astros. Los datos serían de participación ciudadana, tomando como referencia *last.fm*, para encontrar también grupos minoritarios. 
+
+**Integrantes:**
 
