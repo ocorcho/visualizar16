@@ -2,7 +2,7 @@
 
 Es desarrolladora de aplicaciones de noticias en Propublica y ha sido premiada por mejor portfolio en los premios internacionales de Periodismo de Datos. Sisi Wei explica que Propublica no tiene la misma estructura que el resto de organizaciones en los Estados Unidos, y todo va por *crowdfunding*. A partir de ahí, crean artículos y aplicaciones. Esto implica que sea público y *creative commons*. Explica cómo han manejado con grandes datasets sociales para la gente con el ejemplo ***Surgeon Scorecard***. 
 
-**¿Cómo recogen los datos?** Como periodista y desarrolladora, primero se pregunta qué puede hacer la tecnología para esa recolección. A continuación, expone una serie de proyectos:***Message Machine, She's a mom, Free the files***.
+**¿Cómo recogen los datos?** Como periodista y desarrolladora, primero se pregunta qué puede hacer la tecnología para esa recolección. A continuación, expone una serie de proyectos: ***Message Machine, She's a mom, Free the files***.
 
 Si se decide ser voluntario, se le introduce en un grupo para esa colaboración. En *Surgeon Scorecard* se estuvo reuniendo una comunidad durante dos años y se usó *Facebook*. Mientras que a veces no podría servir de mucho, otros daban información necesaria sobre fuentes. Con este grupo de *Facebook* se quería usar la **combinación entre información cualitativa y cuantitativa**. 
 
