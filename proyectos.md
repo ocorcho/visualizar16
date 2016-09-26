@@ -4,17 +4,18 @@
 
 > "La Iniciativa Abierto Directorio de Recursos está haciendo que sea más fácil compartir y encontrar información de directorio sobre la salud, personas, y los servicios sociales disponibles para las personas que lo necesitan. En nuestros proyectos pilotos se involucran los actores locales en el proceso de establecimiento de la interoperabilidad entre los sistemas de información que conectan a las personas con la información acerca de los servicios."
 
-El Centro de Recursos de Madrid podría ser un prototipo para que el Ayuntamiento piense en una mejor forma de disponer de los recursos: Unos se verán de forma más clara y otros no tanto, por lo que se pretende la optimización. Es un proyecto que ya se enfocó y materializó en Visualizar 15'.
+El Centro de Recursos de Madrid podría ser un prototipo para que el Ayuntamiento piense en una **mejor forma de disponer de los recursos**: Unos se verán de forma más clara y otros no tanto, por lo que se pretende la optimización. Es un proyecto que ya se enfocó y materializó en Visualizar 15'.
 
 ##*Fab City Dashboard*##
 
-> "Fab City es un proyecto global para el desarrollo de ciudades que sean autosuficientes y productivas a nivel local y conectadas globalmente hacia un nuevo modelo urbano donde las ciudades encuentran y utilizan recursos localmente, junto con el reciclaje de materiales y al enfrentarse a las necesidades locales a través de la inventiva y participación local. la importación y exportación de una ciudad serían entonces en su mayoría en forma de datos (información, conocimiento, diseño, código). De esta manera, los ciudadanos y las ciudades aumentan su resiliencia con un sistema más ecológico debido a la reducción de los flujos de materiales, el consumo de energía asociado y las emisiones de carbono típicos de la economía actual."
+> "*Fab City* es un proyecto global para el desarrollo de ciudades que sean autosuficientes y productivas a nivel local y conectadas globalmente hacia un nuevo modelo urbano donde las ciudades encuentran y utilizan recursos localmente, junto con el reciclaje de materiales y al enfrentarse a las necesidades locales a través de la inventiva y participación local. la importación y exportación de una ciudad serían entonces en su mayoría en forma de datos (información, conocimiento, diseño, código). De esta manera, los ciudadanos y las ciudades aumentan su resiliencia con un sistema más ecológico debido a la reducción de los flujos de materiales, el consumo de energía asociado y las emisiones de carbono típicos de la economía actual."
 
-*Fab City Dashboard* trata de trasladar a la ciudadanía las diferentes maneras de medir *cuánto es Fab City una ciudad* y ver qué existe y cómo se puede modificar, tener proyectos, debates acerca de estos y adoptar una perspectiva global. Es decir, se ocuparía también de ver también qué redes se involucran en torno a estas ciudades. Esa idea de *dashboard* se genera a partir de la visualización de datasets como de MIT Atlas, Rup, el propio Fab Labs, entre otros, más los volcados realizados en Gitbhub.
+*Fab City Dashboard* trata de trasladar a la ciudadanía las diferentes maneras de medir **cuánto es Fab City una ciudad** y ver qué existe y cómo se puede modificar, tener proyectos, debates acerca de estos y adoptar una perspectiva global. Es decir, se ocuparía también de ver también qué redes se involucran en torno a estas ciudades. Esa idea de *dashboard* se genera a partir de la visualización de *
+datasets* como de *MIT Atlas*, *Rup*, el propio *Fab Labs*, entre otros, más los volcados realizados en Github.
 
-##LiQen Project##
+##*LiQen Project*##
 
-> "El proyecto busca construir un prototipo de una red de colaboración y aplicación móvil que permitirá a los ciudadanos para empujar los datos recogidos para señalar los problemas ambientales en su ciudad, incluidos los problemas de basura, la contaminación acústica, contaminación visual, la contaminación atmosférica, etc. La aplicación va a representar a los conflictos ambientales en la ciudad y agregar datos crowdsourced a las bases de datos abiertas locales, con la posibilidad de modificar, editar o reemplazar los datos ya existentes. Como una innovación importante, los ciudadanos recibirán información en tiempo real para determinar si la información ya recogida en la base de datos existe."
+> "El proyecto busca construir un prototipo de una red de colaboración y aplicación móvil que permitirá a los ciudadanos para empujar los datos recogidos para señalar los problemas ambientales en su ciudad, incluidos los problemas de basura, la contaminación acústica, contaminación visual, la contaminación atmosférica, etc. La aplicación va a representar a los conflictos ambientales en la ciudad y agregar datos *crowdsourced* a las bases de datos abiertas locales, con la posibilidad de modificar, editar o reemplazar los datos ya existentes. Como una innovación importante, los ciudadanos recibirán información en tiempo real para determinar si la información ya recogida en la base de datos existe."
 
 LiQen quiere construir una red de colaboración y aplicación móvil que represente los **conflictos móviles de la ciudad** y busca añadir **la participación ciudadana a las bases ya existentes** de cara a empoderar a todas las personas. Se añadirían conjuntos de datos híbridos entre los existentes a escala local junto a datos generados por usuarios. Es decir, añadir datos exitentes, deduplicar los datos generados y compartir los datos. Se necesita también un modelo conjunto uniforme para denunciar conflictos de carácter medioambiental, cuando la contaminación puede ser sobre todo de un tipo en un país y de una forma totalmente distinta en otro.
 
@@ -31,13 +32,13 @@ Este proyecto plantea cuáles son los alcances nunca tenidos en cuenta en la **r
 
 ARRE busca subir fotografías que generen un **arte no catalogado como tal desde sus propios espacios urbanos**: qué le sugiere un espacio urbano concreto de cara a lo que se ha hecho o para mejorarlo. Arte, Arquitectura y Reutilización necesitará ahora de la parte informática para convertir de esta cuestion anónima de crear las tres acciones de las que compone su nombre un site para compartirlo todo.
 
-##Stadatus##
+##*Stadatus*##
 
 > "Este proyecto pretende representar de manera visual el grado de cumplimiento de la “Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno.” Teniendo en cuenta como criterios de evaluación la facilidad de acceso a la información, la calidad y la frecuencia de actualización de los datos."
 
 Tras trabajos previos de transparencia y la dificultad de acceso a cierta información, que hace que incluso proyectos de gran envergadura como "Tu derecho a saber", de Civio, tengan fecha de caducidad. Se buscaría crear **una plataforma que desgranase las leyes y su cumplimiento y la apertura de datos** ya que en verdad a nivel institucional ya la información viene cerrada.
 
-##**Apps 4 citizens**##
+##*Apps 4 citizens*##
 
 > "Esta plataforma nos ha aportado dos aprendizajes: por un lado, más allá de las apps, hay otras herramientas con usabilidad vía web, muy relevantes para el activismo social y político que, con un marco de difusión más amplio, podrían tener mayor impacto en la ciudadanía; por otro lado, las herramientas destacables son aquellas que promueven el código reutilizable, datos abiertos, licencias de contenido libres, etc. En resumen, la tecnopolítica debe favorecer estructuras de creación más justas e igualitarias socialmente."
 
@@ -47,10 +48,5 @@ En su meta del cambio social y el empoderamiento ciudadano, *Apps 4 citizens* bu
 
 > "La propuesta nace al entender los conciertos como un indicador de la actividad musical de una ciudad. A partir un archivo de conciertos podríamos identificar que ciudades tienen más o menos actividad musical incluso identificar que tipo de música es mas frecuente en cada lugar."
 
-La actividad cultural se puede entender a modo de constelación. Ante la problemática que genera el hecho de que pueda a ver menos ofertas, por ejemplo, musicales, en un sitio como Madrid, *los datos de eventos culturales pueden confluir de tal forma que se genere una visualización estelar*, de tal forma que cada concierto sea un *astro con un color* dependiendo de su género y que **la coincidencia de géneros produzca la constelación** de astros. Los datos serían de participación ciudadana, tomando como referencia last.fm, para encontrar también grupos minoritarios. 
-
-
-
-
-
+La actividad cultural se puede entender a modo de constelación. Ante la problemática que genera el hecho de que pueda a ver menos ofertas, por ejemplo, musicales, en un sitio como Madrid, **los datos de eventos culturales pueden confluir de tal forma que se genere una visualización estelar**, de tal forma que cada concierto sea un **astro con un color** dependiendo de su género y que **la coincidencia de géneros produzca la constelación** de astros. Los datos serían de participación ciudadana, tomando como referencia *last.fm*, para encontrar también grupos minoritarios. 
 
