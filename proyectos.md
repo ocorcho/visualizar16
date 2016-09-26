@@ -4,7 +4,7 @@
 
 > "La Iniciativa Abierto Directorio de Recursos está haciendo que sea más fácil compartir y encontrar información de directorio sobre la salud, personas, y los servicios sociales disponibles para las personas que lo necesitan. En nuestros proyectos pilotos se involucran los actores locales en el proceso de establecimiento de la interoperabilidad entre los sistemas de información que conectan a las personas con la información acerca de los servicios."
 
-El Centro de Recursos de Madrid podría ser un prototipo para que el Ayuntamiento piense en una mejor forma de disponer de los recursos: Unos se verán de forma más clara y otros no tanto, por lo que se pretende la optimización.
+El Centro de Recursos de Madrid podría ser un prototipo para que el Ayuntamiento piense en una mejor forma de disponer de los recursos: Unos se verán de forma más clara y otros no tanto, por lo que se pretende la optimización. Es un proyecto que ya se enfocó y materializó en Visualizar 15'.
 
 ##*Fab City Dashboard*##
 
